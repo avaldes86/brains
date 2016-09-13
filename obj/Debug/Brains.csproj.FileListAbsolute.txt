@@ -1,0 +1,13 @@
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\bin\Debug\Brains.exe.config
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\bin\Debug\Brains.exe
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\bin\Debug\Brains.pdb
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\obj\Debug\Brains.csprojResolveAssemblyReference.cache
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\obj\Debug\Brains.Properties.Resources.resources
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\obj\Debug\Brains.csproj.GenerateResource.Cache
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\obj\Debug\Brains.exe
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\obj\Debug\Brains.pdb
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\bin\Debug\NeuronDotNet.Core.dll
+D:\Angel\Revisar\Memoria\Aguas Varadero\Develop\Brains\obj\Debug\Brains.MainForm.resources
+F:\Brains\bin\Debug\Brains.exe.config
+F:\Brains\obj\Debug\Brains.exe
+F:\Brains\obj\Debug\Brains.pdb
